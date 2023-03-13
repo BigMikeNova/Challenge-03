@@ -118,7 +118,7 @@ function generatePassword() {
   }
 
   var password = passwordBlank.join("");
-  console.log("Your Pasword is: " + password);
+  console.log("Here's your Password: " + password);
   return password;
   
 }
