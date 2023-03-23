@@ -2,6 +2,9 @@
 
 https://bigmikenova.github.io/Password-Generator/ 
 
+![image](https://user-images.githubusercontent.com/125073452/227381360-a409f2fc-3f63-40f1-92c1-b3728bf59ded.png)
+
+
 ## Your Task
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
